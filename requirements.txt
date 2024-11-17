@@ -1,0 +1,6 @@
+torch==2.0.1  # Replace with your specific PyTorch version
+torchvision==0.15.2
+numpy==1.24.2
+matplotlib==3.7.1
+Pillow==9.5.0
+tensorboard==2.12.3
