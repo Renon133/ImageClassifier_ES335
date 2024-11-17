@@ -26,7 +26,7 @@ git clone https://github.com/Renon133/ImageClassifier_ES335
 cd ImageClassifier_ES335
 
 # Install required packages
-pip install -r requirements.txt
+pip install --upgrade -r requirements.txt
 ```
 
 ## Training the Models 🏆
