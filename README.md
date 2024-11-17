@@ -21,9 +21,9 @@ Ensure you have the following installed:
 ### Installation Steps 🤖
 Clone the repository and install the required packages:
 ```bash
-# Clone this repository
-git clone https://github.com/username/repo-name.git
-cd repo-name
+# Clone this repository 
+git clone https://github.com/Renon133/ImageClassifier_ES335
+cd ImageClassifier_ES335
 
 # Install required packages
 pip install -r requirements.txt
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Training the Models 🏆
 To train a model with 1 block, run the following command:
 ```bash
-python train.py --model vgg1
+Use train_and_evaluate() function to train the models 
 ```
 
 ### Available Models 🦅
